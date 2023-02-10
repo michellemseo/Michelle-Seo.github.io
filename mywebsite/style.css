@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+    font-family:arial, sans-serif; 
+}
+.p1{
+    font-family: sans-serif;
+    color:blue;
+    text-decoration-line:line-through;
+    font-size: 50px;
+    font-family:arial;
+    position:fixed;
+}
+.p2{
+    font-family:sans-serif;
+    color:black;
+    line-height:15pt;
+    font-size:15px;
+    bottom:0;
+    right:0;
+}
+.p3{
+    font-family: sans-serif;
+    color:blue;
+    font-size:15px;
+    text-decoration-line: line-through;
+}
