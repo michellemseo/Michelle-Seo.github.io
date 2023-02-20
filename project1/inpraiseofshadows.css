@@ -1,16 +1,42 @@
 body{
     background-color: black;
+    font-family: 'Roboto', sans-serif;
 }
 .p1{
     color: white;
-    font-family:Arial, Helvetica, sans-serif;
     font-size:200px;
     text-decoration: none;
+    margin-top:13vh;
+    font-family: "Sawarabi Mincho";
 }
+
 .p2{
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-size:200px;
+    text-decoration: none;
+    margin-top:-35vh;
+    font-family: "Sawarabi Mincho";
 }
-.custom{
-    cursor: url(影.png),auto;
+/*
+.p1:hover {
+    filter: blur(4px);
+  }
+.p2:hover {
+    filter: blur(4px);
+  }
+*/
+.title:hover {
+    filter: blur(3px);
+    font-family: "Sawarabi Mincho";
+  }
+a{
+    text-decoration: none;
+    color:white;
+    font-family: "Sawarabi Mincho";
+}
+
+.p3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -20vh;
 }

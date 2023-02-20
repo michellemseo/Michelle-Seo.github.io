@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+#text a{
+    color:white;
+    text-decoration:none;
+    margin-left:1350px;
+}

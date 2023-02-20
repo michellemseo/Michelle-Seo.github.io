@@ -1,2 +1,82 @@
 body{
     background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.two{
+    margin-top:19vh;
+}
+.one{
+    margin-left: 91.4vh;
+    margin-top:-36.7vh;
+    position: absolute;    
+}
+
+.four{
+    margin-left:25.8vh;
+    margin-top: -18.3vh;
+    position: absolute;
+}
+.five{
+    margin-left:30vh;
+    margin-top:-13.3vh;
+    position: absolute;
+}
+.six{
+    margin-left:28.2vh;
+    margin-top: -7.2vh; 
+    position: absolute;
+
+}
+.seven{
+    margin-top:-18vh;
+    margin-left:52vh;     
+    position: absolute;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 2px;
+}
+
+#box1{
+    width: 20vh;
+    height: 20vh;
+    margin: 10vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    margin-top: -30vh;
+}
+#box2{
+    width: 10vh;
+    height: 10vh;
+    margin:40vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    margin-top: -50vh;
+}
+#text a{
+    color:white;
+    text-decoration:none;
+    margin-left:1350px;
+}
+.p1 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-left:170vh;
+    margin-top:127px;
+    filter: blur(1px);
+}
+.p2 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-left:30px;
+    margin-top:127px;
+    filter: blur(1px); 
+}
