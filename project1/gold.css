@@ -37,20 +37,20 @@ body{
 .p2 a{
     font-family: "Sawarabi Mincho";
     font-size:40px;
-    color:gold;
+    color:white;
     text-decoration:none;
     position:absolute;
-    margin-top:5vh;
+    margin-top:220vh;
     margin-left:155vh;
     filter: blur(1px);
 }
 .p3 a{
     font-family: "Sawarabi Mincho";
     font-size:40px;
-    color:gold;
+    color:white;
     text-decoration:none;
     position:absolute;
-    margin-top:5vh;
+    margin-top:220vh;
     margin-left:30px;
     filter: blur(1px); 
 }
@@ -69,8 +69,8 @@ body{
 .p5{
     font-family: 'Times New Roman', Times, serif;
     position:absolute;
-    margin-top:60vh;
-    margin-left:600px;
+    margin-top:70vh;
+    margin-left:500px;
     color:gold;
     font-size:20px;
     width:400px;
@@ -81,8 +81,8 @@ body{
 .p6{
     font-family: 'Times New Roman', Times, serif;
     position:absolute;
-    margin-top:140vh;
-    margin-left:800px;
+    margin-top:150vh;
+    margin-left:900px;
     color:gold;
     font-size:20px;
     width:400px;

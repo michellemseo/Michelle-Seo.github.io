@@ -12,7 +12,7 @@ body{
     margin-right:40vh;
 }
 .p1:hover{
-    text-shadow:2px 2px 7px rgb(194, 194, 194);
+    text-shadow:3px 3px 10px rgb(222, 221, 221);
     color:white;
 }
 .p2 a{
@@ -43,6 +43,19 @@ body{
     position:fixed;
     margin-top:6vh;
     margin-left:2vh;
+    animation-name: fade-in;
+    animation-delay: 1s;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+@keyframes fade-in {
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
 }
 .vl{
         border-left: 2px solid white;
