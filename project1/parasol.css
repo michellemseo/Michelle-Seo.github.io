@@ -22,6 +22,20 @@ body{
     margin-left:170vh;
     margin-top:20px;
     filter: blur(1px);
+    animation-name: fade-in;
+    animation-delay: 4s;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+@keyframes fade-in {
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
 }
 .p2 a{
     font-family: "Sawarabi Mincho";
@@ -31,5 +45,19 @@ body{
     position:fixed;
     margin-left:33px;
     margin-top:20px;
-    filter: blur(1px); 
+    filter: blur(1px);
+    animation-name: fade-in;
+    animation-delay: 4s;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+@keyframes fade-in {
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    } 
 }
