@@ -12,7 +12,7 @@ body{
     margin-right:40vh;
 }
 .p1:hover{
-    text-shadow:2px 2px 7px rgb(194, 194, 194);
+    text-shadow:2px 2px 7px rgb(255, 231, 176);
     color:white;
 }
 .p2 a{
@@ -43,6 +43,7 @@ body{
     position:fixed;
     margin-top:6vh;
     margin-left:2vh;
+    letter-spacing:0.2em;
 }
 .vl{
         border-left: 2px solid white;

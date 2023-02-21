@@ -7,42 +7,73 @@ body{
 }
 .half-background {
     background: linear-gradient(to right, white 50%, black 50%);
-    height: 110vh;
-    width: 100%;
+    height: 300vh;
+    width: 200vh;
     position: relative;
   }
   .p1{
     position: absolute;
-    top: 50%;
-    text-align: left;
     width: 100%;
     height: 100%;
     font-size: 24px;
     color: black;
     font-size:200px;
-    text-decoration: none;
-    margin-top:13vh;
+    margin-top:72vh;
+    margin-left:2vh;
     font-family: "Sawarabi Mincho";
   }
   .p2{
     position: absolute;
-    top: 50%;
-    text-align: right;
-    width: 100%;
+    width: 200%;
     font-size: 24px;
     color: white;
     font-size:200px;
-    text-decoration: none;
-    margin-top:-50vh;
+    margin-top:2vh;
+    margin-left:100vh;
     font-family: "Sawarabi Mincho"; 
   }
   .p3{
-    font-size: 12px;
-    text-align-last: center;
+    font-size: 30px;
+    line-height:70px;
     color: white;
-    font-size:xx-large;
-    margin-top:-50vh;
-    margin-left:300vh;
+    margin-top:-280vh;
+    margin-left:200vh;
     font-family: 'Times New Roman', Times, serif;
-    width: 500px;
+    width: 900px;
   }
+  .p4 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-top:5vh;
+    margin-left:310vh;
+    filter: blur(1px);
+  }
+  .p5 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-top:5vh;
+    margin-left:195vh;
+    filter: blur(1px);
+  }
+  .b{
+    font-family: "Sawarabi Mincho";
+    font-size:55px;
+    font-weight:bold;
+    color:white;
+    position:absolute;
+    margin-top:6vh;
+    margin-left:1vh;
+}
+  .vl{
+    border-left: 2px solid white;
+    height: 2300px;
+    position: absolute;
+    margin-left: 330vh;
+    top:0;
+}

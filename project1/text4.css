@@ -10,10 +10,10 @@ body{
     margin-top:20vh;
     margin-left:10vh;
     margin-right:40vh;
+    filter:blur(2px);
 }
 .p1:hover{
-    text-shadow:2px 2px 7px rgb(194, 194, 194);
-    color:white;
+    filter:none;
 }
 .p2 a{
     font-family: "Sawarabi Mincho";
@@ -43,10 +43,11 @@ body{
     position:fixed;
     margin-top:6vh;
     margin-left:2vh;
+    letter-spacing:0.2em;
 }
 .vl{
         border-left: 2px solid white;
-        height: 1300px;
+        height: 3000px;
         position: absolute;
         margin-left: 148vh;
         top:0;

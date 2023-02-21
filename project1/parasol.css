@@ -6,7 +6,30 @@ body{
     height:550px;
     margin-left:50vh;
     margin-top:17vh;
+    transition: width 2s, height 2s, transform 2s;
 }
-.rotate {
-    transform: rotate(90deg);
-  }
+.one:hover {
+    width: 400px;
+    height: 400px;
+    transform: rotate(180deg);
+}
+.p1 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:fixed;
+    margin-left:170vh;
+    margin-top:20px;
+    filter: blur(1px);
+}
+.p2 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:fixed;
+    margin-left:33px;
+    margin-top:20px;
+    filter: blur(1px); 
+}
