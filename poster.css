@@ -75,6 +75,7 @@ body{
     position:absolute;
     margin-top:780px;
     margin-left:0px;
+    font-weight: 100;
 }
 .p8{
     color:white;
@@ -83,12 +84,15 @@ body{
     position:absolute;
     margin-top:780px;
     right:0;
+    font-weight:100;
 }
 .p9{
     color:white;
-    font-family: 'Roboto', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size:20px;
     position:absolute;
     margin-top:780px;
     margin-left:650px;
+    font-weight:000;
+
 }
