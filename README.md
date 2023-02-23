@@ -1,1 +1,1 @@
-# Michelle-Seo.github.io
+#michellemseo.github.io
