@@ -59,7 +59,7 @@ body{
     margin-left:0px;
     letter-spacing:-2px; 
 }
-#box{
+.box{
     background-color: green;
     background-image: radial-gradient(red, green, yellow);
     width:270px;
@@ -67,6 +67,10 @@ body{
     position:absolute;
     margin-top:290px;
     margin-left:585px;
+}
+.box:hover + .p7{
+  display:block;  
+  color:white;
 }
 .p7{
     color:white;
@@ -93,6 +97,5 @@ body{
     position:absolute;
     margin-top:780px;
     margin-left:650px;
-    font-weight:000;
-
+    font-weight:900;
 }

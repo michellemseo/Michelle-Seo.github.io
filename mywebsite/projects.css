@@ -4,14 +4,16 @@ body{
 }
 .p1{
     color:blue;
-    text-decoration-line:line-through;
-    font-size: 40px;
+    font-size: 30px;
     font-family:arial;
+    position:absolute;
+    margin-left:20px;
 }
-.p2{
+.p2 a{
     color:blue;
     font-size: 20px;
     font-family:arial;
     position:absolute;
-    bottom:0;
+    margin-left:20px;
+    margin-top:600px;
 }
