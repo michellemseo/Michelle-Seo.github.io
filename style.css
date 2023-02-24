@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+    font-family:arial, sans-serif; 
+}
+.p1{
+    font-family: sans-serif;
+    color:blue;
+    text-decoration-line:line-through;
+    font-size: 50px;
+    font-family:arial;
+    position:fixed;
+    font-size:40px;
+    filter:blur(1px);
+}
+.p1:hover{
+    filter:none;
+}
+.p2 a{
+    font-family:sans-serif;
+    color:blue;
+    font-size:40px;
+    margin-top:39.5px;
+    margin-left:380px;
+    text-decoration:none;
+    position:fixed;
+    text-decoration-line:line-through;
+    filter:blur(1px);
+}
+.p2 a:hover{
+    filter:none;
+}
+.p3 a{
+    font-family:sans-serif;
+    color:blue;
+    font-size:40px;
+    margin-top:39.5px;
+    margin-left:575px;
+    text-decoration:none;
+    position:fixed;
+    text-decoration-line:line-through;
+    filter:blur(1px);
+}
+.p3 a:hover{
+    filter:none;
+}
+.p4 a{
+    font-family:sans-serif;
+    color:blue;
+    font-size:40px;
+    margin-top:39.5px;
+    margin-left:900px;
+    text-decoration:none;
+    position:fixed;
+    text-decoration-line:line-through;
+    filter:blur(1px);
+}
+.p4 a:hover{
+    filter:none;
+}
+.slide-left{
+    filter:blur(2px);
+}
+.slide-right{
+    filter:blur(2px);
+}
