@@ -31,13 +31,6 @@ display:flex;
 }
 
 
-
-
-
-
-
-
-
 .item1 { grid-area: header; }
 .item2 { grid-area: main; }
 .item4 { grid-area: right; }
