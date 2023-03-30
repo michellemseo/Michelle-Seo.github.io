@@ -23,32 +23,32 @@ body{
     font-size:3vh;
     color:white;
     position:absolute;
-    margin-left:16vw;
+    margin-left:17vw;
     margin-top:7.5vh;  
 }
 
 .kor{
-    width:21vw;
-    height:70vh;
+    width:300px;
+    height:500px;
     position:absolute;
-    margin-left:20vw;
+    margin-left:21.2vw;
     margin-top:20vh;
 }
 
 .kor:hover{
-    width:25vw;
-    height:90vh;
+    width:320px;
+    height:520px;
 }
 
 .us{
-    width:21vw;
-    height:70vh;
+    width:300px;
+    height:500px;
     position:absolute;
-    margin-left:57vw;
+    margin-left:53vw;
     margin-top:20vh;
 }
 
 .us:hover{
-    width:25vw;
-    height:90vh;
+    width:320px;
+    height:520px;
 }
