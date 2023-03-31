@@ -5,14 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="kor-red.css" type="text/css"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src ="pull.js"></script>
     <title>Korea red</title>
-    <script>
+    <!-- <script>
     // Load the JSON file named korrred.json
-    fetch('korred.json')
+    fetch('kordata.json')
     .then(response => response.json())
     .then(data => {
         // Access the div element
-        const korred= document.getElementById('korred');
+        const day= document.getElementById('day');
                 
         // Loop through the data and add each item to the div
         data.forEach(item => {
@@ -21,18 +22,17 @@
         const img = document.createElement('img');
 
         // Set the text content and href attributes for the link
-        p.textContent = item.id + ' ' + item.pokemon;
-        img.src = "img/" + item.image;
+        // p.textContent = item.id + ' ' + item.pokemon;
+        img.src = "elastic_collection/" + item.Name;
         
         // Add the HTML tags to webpage
         div.appendChild(img);
-        div.appendChild(p);
-        div.appendChild(audio);
-        pokedex.appendChild(div);
+        // div.appendChild(p);
+        day.appendChild(div);
         });
     })
     .catch(error => console.error(error));
-    </script>
+    </script> -->
     <style>
         .flex-container {
             display: flex;
@@ -43,25 +43,9 @@
     </style>
 </head>
 <body>
-    <div id="pokedex" class="flex-container">
+    <div id="day" class="flex-container">
     </div>
 </body>
 </html>
-
-
-
-
-<!DOCTYPE html>
-<html>
-<head>  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Intx w/ Data: Elastic Collection</title>
-    </head>
-<body>
-
-
-    <div class="filter">
-        <p class="filterp">filter</p>
-    </div>
 
     
