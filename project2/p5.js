@@ -1,7 +1,7 @@
 'use strict';
 
 var font;
-var fontSize = 300;
+var fontSize = 119;
 // declare your animatedText variable
 var myAnimatedText;
 
@@ -15,7 +15,11 @@ function setup() {
   // initialize the animatedType Object
   myAnimatedText = new animatedType();
   // add some text in
-  myAnimatedText.textTyped.push(myAnimatedText.addText('records.'));
+  myAnimatedText.textTyped.push(myAnimatedText.addText('COLOR    ARCHIVE.'));
+  myAnimatedText.textTyped.push(myAnimatedText.addText(''));
+  myAnimatedText.textTyped.push(myAnimatedText.addText('peek   through'));
+  myAnimatedText.textTyped.push(myAnimatedText.addText('each   region   photodump'));
+
   // read in the font to opentype.js
   opentype.load('data/FreeSans.otf', function(err, f) {
     if (err) {
@@ -36,7 +40,7 @@ function draw() {
   // background(255, 255, 255);
 
   // margin border
-  translate(50,370);
+  translate(40,165);
   fill(0);
 
   myAnimatedText.getLineCount();
@@ -469,4 +473,4 @@ function keyTyped() {
 }
 
 const p5canvas = document.getElementById('defaultCanvas0');
-p5canvas.style.width = '20vw';
+p5canvas.style.width = '50vw';
