@@ -1,32 +1,65 @@
 .p1{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
 }
 .p2 a{
     color:blue;
-    font-size: 20px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
-    margin-top:700px;
+    margin-left: 0;
+    margin-top:90vh;
     }
 .p3 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
-    margin-top: 80px;
+    margin-left:0;
+    margin-top: 14vh;
     }
 .p4 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
-    margin-top: 200px;
+    margin-left:0;
+    margin-top: 25vh;
     }
+.p5 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:0;
+    margin-top: 36vh;
+    }
+.p6 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:0;
+    margin-top: 47vh;
+    }
+.p7 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:0;
+    margin-top: 58vh;
+    }
+.p8 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:0;
+    margin-top: 69vh;
+    }
+
+    
             

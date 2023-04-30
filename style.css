@@ -6,10 +6,8 @@ body{
     font-family: sans-serif;
     color:blue;
     text-decoration-line:line-through;
-    font-size: 50px;
-    font-family:arial;
     position:fixed;
-    font-size:40px;
+    font-size:3vw;
     filter:blur(1px);
 }
 .p1:hover{

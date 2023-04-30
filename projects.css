@@ -4,16 +4,32 @@ body{
 }
 .p1{
     color:blue;
-    font-size: 30px;
+    font-size: 3vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
+    margin-left:0;
 }
 .p2 a{
     color:blue;
-    font-size: 20px;
+    font-size: 3vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
-    margin-top:600px;
+    margin-left:0;
+    margin-top:90vh;
+}
+.p3 a{
+    color:blue;
+    font-size: 3vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:0;
+    margin-top:19vh;
+}
+.p4 a{
+    color:blue;
+    font-size: 3vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:0;
+    margin-top:32vh;
 }
