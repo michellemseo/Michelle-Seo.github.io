@@ -1,0 +1,63 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(126deg, #ffffff, #000000);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 22s ease infinite;
+    -moz-animation: AnimationName 22s ease infinite;
+    animation: AnimationName 22s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 53%}
+    50%{background-position:100% 48%}
+    100%{background-position:0% 53%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 53%}
+    50%{background-position:100% 48%}
+    100%{background-position:0% 53%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 53%}
+    50%{background-position:100% 48%}
+    100%{background-position:0% 53%}
+}
+.p1{
+    color: white;
+    font-size:200px;
+    text-decoration: none;
+    margin-top:13vh;
+    font-family: "Sawarabi Mincho";
+}
+
+.p2{
+    color: white;
+    font-size:200px;
+    text-decoration: none;
+    margin-top:-35vh;
+    font-family: "Sawarabi Mincho";
+}
+/*
+.p1:hover {
+    filter: blur(4px);
+  }
+.p2:hover {
+    filter: blur(4px);
+  }
+*/
+.title:hover {
+    filter: blur(3px);
+    font-family: "Sawarabi Mincho";
+  }
+a{
+    text-decoration: none;
+    color:white;
+    font-family: "Sawarabi Mincho";
+}
+
+.p3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -20vh;
+}

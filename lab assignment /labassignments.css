@@ -1,32 +1,47 @@
 .p1{
     color:blue;
-    font-size: 30px;
+    font-size: 3vw;
     font-family:arial;
     position:absolute;
     margin-left:20px;
 }
 .p2 a{
     color:blue;
-    font-size: 20px;
+    font-size: 3vw;
     font-family:arial;
     position:absolute;
     margin-left:20px;
-    margin-top:700px;
+    margin-top:600px;
     }
 .p3 a{
     color:blue;
-    font-size: 30px;
+    font-size: 3vw;
     font-family:arial;
     position:absolute;
     margin-left:20px;
-    margin-top: 80px;
+    margin-top: 120px;
     }
 .p4 a{
     color:blue;
-    font-size: 30px;
+    font-size: 3vw;
     font-family:arial;
     position:absolute;
     margin-left:20px;
     margin-top: 200px;
     }
-            
+.p5 a{
+    color:blue;
+    font-size: 3vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:20px;
+    margin-top: 280px;
+    }
+.p6 a{
+    color:blue;
+    font-size: 3vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:20px;
+    margin-top: 360px;
+    }
