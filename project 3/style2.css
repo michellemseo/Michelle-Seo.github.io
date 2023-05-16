@@ -1,0 +1,563 @@
+body{
+    margin: 1vw;
+}
+
+.img{
+    position:fixed;
+    top:30px;
+    width:1000px;
+    height:205px;
+    margin-left: 200px;
+}
+
+.A{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.B{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.C{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.D{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.E{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+}
+
+.F{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.G{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.H{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.I{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+    background-size:cover;
+}
+
+.J{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.K{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.L{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.M{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.N{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.O{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.P{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.Q{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.R{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.S{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.T{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.U{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.V{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.W{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.X{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+.Y{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black; 
+}
+
+.Z{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:black;
+}
+
+h3{
+    color: black;
+}
+
+div.A{
+    text-align: left;
+    top:200px;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    background-color: orangered;
+    border-style:solid;
+    border-width: 3px;
+    border-color:black;
+    margin: 1vw;
+    margin-left:200px;
+}
+
+.Aa{
+    font-family:Arial, Helvetica, sans-serif;
+    font: size 100px;
+    position:absolute;
+}
+
+div.B{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: mediumseagreen;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-left:990px;
+    margin-top:-800px;
+}
+div.C{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: purple;
+    border-width: 3px;
+    margin: 1vw;
+    margin-left:100px;
+    position:absolute;
+}
+div.D{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;
+    padding: 2vw;
+    border-style: solid;
+    background-color: green;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+
+}
+div.E{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;
+    padding: 2vw;
+    border-style: solid;
+    background-color: brown;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-left:800px;
+    margin-top:-200px;
+    position:absolute;
+
+}
+div.F{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;
+    padding: 2vw;
+    border-style: solid;
+    background-color: hotpink;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+
+}
+
+div.G{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;
+    padding: 2vw;
+    border-style: solid;
+    background-color: blueviolet;
+    border-width: 3px;
+    margin: 1vw;
+    margin-left:350px;
+    margin-top:-500px;
+    position:absolute;
+}
+
+div.H{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;
+    padding: 2vw;
+    border-style: solid;
+    background-color: pink;
+    border-width: 3px;
+    margin: 1vw;
+    margin-top:-800px;
+    margin-left:600px;
+    position:absolute;
+}
+div.I{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;
+    padding: 2vw;
+    border-style: solid;
+    background-color: orange;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-left:40vw;
+}
+
+div.J{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: khaki;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-left:600px;
+    margin-top:200px;
+
+}
+
+div.K{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: olive;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-left:200px;
+    margin-top:-100px;
+}
+
+div.L{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: orchid;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-top:50px;
+    margin-left:990px;
+}
+
+div.M{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: gold;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-left:400px;
+    margin-top:50px;
+}
+
+div.N{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: royalblue;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+}
+
+div.O{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: lightcoral;
+    border-width: 3px;
+    margin: 1vw;
+    margin-left:200px;
+    position:absolute;
+}
+
+div.P{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: lawngreen;
+    border-width: 3px;
+    margin: 1vw;
+    margin-top:-800px;
+    margin-left:500px;
+    position:absolute;
+}
+
+div.Q{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #ffa07a;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+}
+
+div.R{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #add8e6;
+    border-width: 3px;
+    margin: 1vw;
+    margin-left:700px;
+    position:absolute;
+}
+
+div.S{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #e6e6fa;
+    border-width: 3px;
+    margin: 1vw;
+    margin-left:800px;
+    margin-top:-200px;
+    position:absolute;
+}
+
+div.T{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #dda0dd;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+}
+
+div.U{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #d87093;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+}
+
+div.V{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: red;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+    margin-left:600px;
+    margin-top:200px;
+}
+
+div.W{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;   
+    padding: 2vw;
+    border-style: solid;
+    background-color: #008b8b;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+}
+
+
+div.X{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #8b0000;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+
+}
+
+div.Y{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #ff8c00;
+    border-width: 3px;
+    margin: 1vw;
+    position:absolute;
+
+}
+
+div.Z{
+    /* background-image:url(wood_texture4.jpeg); */
+    text-align: left;
+    width:18vw;
+    height:33vh;    
+    padding: 2vw;
+    border-style: solid;
+    background-color: #00bfff;
+    border-width: 3px;
+    margin: 1vw;
+    margin-top:-300px;
+    margin-left:500px;
+    position:absolute;
+
+}
+
+#modal{
+    position: fixed;
+    top:1;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    background-color:white;
+    border-style:solid;
+    border-color:black;
+    border-width: 2px;
+    width:150px;
+    height:290px;
+    padding:2vw;
+}
+

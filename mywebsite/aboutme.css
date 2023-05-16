@@ -4,80 +4,72 @@ body{
 }
 .p1 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
-    margin-top:20px;
+    margin-left:1vw;
     text-orientation: upright;
 }
 .p2 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:180px;
-    margin-top:20px;
+    margin-left:10vw;
     text-orientation: upright;
 }
 .map{
-    width:230px;
-    height:150px;
+    width:150px;
+    height:100px;
     position:absolute;
-    margin-top:600px;
-    margin-left:1100px;
-    text-orientation: upright;
+    right:0;
+    bottom:0;
 }
 .p3 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:280px;
-    margin-top:20px;
+    margin-left:19vw;
     text-orientation: upright;
 }
 .p4 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:450px;
-    margin-top:20px;
+    margin-left:28vw;
     text-orientation: upright;
 }
 .p5 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:580px;
-    margin-top:20px;
-    text-orientation: upright; 
+    margin-left:36vw;
+    text-orientation: upright;
 }
 .p6 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:710px;
-    margin-top:20px;
-    text-orientation: upright; 
+    margin-left:44vw;
+    text-orientation: upright;
 }
 .p7 a{
     color:blue;
-    font-size: 30px;
+    font-size: 2vw;
     font-family:arial;
     position:absolute;
-    margin-left:890px;
-    margin-top:20px;
+    margin-left:54vw;
     text-orientation: upright; 
 }
 .p8 a{
     color:blue;
-    font-size: 20px;
+    font-size: 1.5vw;
     font-family:arial;
     position:absolute;
-    margin-left:20px;
-    margin-top:360px;
+    bottom:0;
+    left: 36px;
 }

@@ -9,48 +9,48 @@ body{
     position:fixed;
     font-size:3vw;
     filter:blur(1px);
+    top:0;
 }
 .p1:hover{
     filter:none;
 }
 .p2 a{
-    font-family:sans-serif;
+    font-family: sans-serif;
     color:blue;
-    font-size:40px;
-    margin-top:39.5px;
-    margin-left:380px;
-    text-decoration:none;
-    position:fixed;
     text-decoration-line:line-through;
+    position:fixed;
+    font-size:3vw;
     filter:blur(1px);
+    margin-top:3.35vh;
+    margin-left:30vw;
+
 }
 .p2 a:hover{
     filter:none;
 }
 .p3 a{
-    font-family:sans-serif;
+    font-family: sans-serif;
     color:blue;
-    font-size:40px;
-    margin-top:39.5px;
-    margin-left:575px;
-    text-decoration:none;
-    position:fixed;
     text-decoration-line:line-through;
+    position:fixed;
+    font-size:3vw;
     filter:blur(1px);
+    margin-top:3.35vh;
+    margin-left:46vw;
+
 }
 .p3 a:hover{
     filter:none;
 }
 .p4 a{
-    font-family:sans-serif;
+    font-family: sans-serif;
     color:blue;
-    font-size:40px;
-    margin-top:39.5px;
-    margin-left:900px;
-    text-decoration:none;
-    position:fixed;
     text-decoration-line:line-through;
+    position:fixed;
+    font-size:3vw;
     filter:blur(1px);
+    margin-top:3.35vh;
+    margin-left:72vw;
 }
 .p4 a:hover{
     filter:none;

@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: white;
     font-family:arial, sans-serif; 
 }
@@ -7,8 +7,9 @@ body{
     color:blue;
     text-decoration-line:line-through;
     position:fixed;
-    font-size:3vw;
+    font-size:40px;
     filter:blur(1px);
+    top:0;
 }
 .p1:hover{
     filter:none;
@@ -17,12 +18,12 @@ body{
     font-family:sans-serif;
     color:blue;
     font-size:40px;
-    margin-top:39.5px;
-    margin-left:380px;
     text-decoration:none;
     position:fixed;
     text-decoration-line:line-through;
     filter:blur(1px);
+    top:0;
+
 }
 .p2 a:hover{
     filter:none;
@@ -31,12 +32,12 @@ body{
     font-family:sans-serif;
     color:blue;
     font-size:40px;
-    margin-top:39.5px;
-    margin-left:575px;
     text-decoration:none;
     position:fixed;
     text-decoration-line:line-through;
     filter:blur(1px);
+    top:0;
+
 }
 .p3 a:hover{
     filter:none;
@@ -45,13 +46,42 @@ body{
     font-family:sans-serif;
     color:blue;
     font-size:40px;
-    margin-top:39.5px;
-    margin-left:900px;
     text-decoration:none;
     position:fixed;
     text-decoration-line:line-through;
     filter:blur(1px);
+    top:0;
 }
+ */
+
+ body{
+    background-color:white;
+    font-family:Arial, Helvetica, sans-serif;
+ }
+
+ .container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+  }
+  
+  .col a{
+    flex: 1;
+    padding: 0 10px;
+    font-family:sans-serif;
+    color:blue;
+    font-size:38px;
+    text-decoration:none;
+    text-decoration-line:line-through;
+    filter:blur(1px);
+  }
+
 .p4 a:hover{
     filter:none;
 }
@@ -61,3 +91,11 @@ body{
 .slide-right{
     filter:blur(2px);
 }
+  
+  @media screen and (max-width: 767px) {
+    .col {
+      flex-basis: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  
