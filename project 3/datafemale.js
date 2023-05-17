@@ -23,7 +23,9 @@ fetch(url)
         currentPerson.dataset.count = item.cnt;
         currentPerson.dataset.rank = item.rnk;
 
-        // currentPerson.innerHTML = `
+        currentPerson.innerHTML = item.nm.charAt(0);
+
+
 
         // <div id="square"> </div>
 

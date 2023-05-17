@@ -11,8 +11,10 @@ body{
 
 .A{
     font-family:Arial, Helvetica, sans-serif;
-    font-size:13px;
+    font-size:180px;
     color:black;
+    text-align: center;
+
 }
 
 .B{
@@ -170,7 +172,6 @@ h3{
 }
 
 div.A{
-    text-align: left;
     width:18vw;
     height:33vh;    
     padding: 2vw;
