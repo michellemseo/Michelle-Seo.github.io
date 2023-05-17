@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+    font-family:helvetica, arial, sans-serif;
+}
+.p1 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:1vw;
+    text-orientation: upright;
+}
+.p2 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:10vw;
+    text-orientation: upright;
+}
+.map{
+    width:150px;
+    height:100px;
+    position:absolute;
+    right:0;
+    bottom:0;
+}
+.p3 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:19vw;
+    text-orientation: upright;
+}
+.p4 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:28vw;
+    text-orientation: upright;
+}
+.p5 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:36vw;
+    text-orientation: upright;
+}
+.p6 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:44vw;
+    text-orientation: upright;
+}
+.p7 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:54vw;
+    text-orientation: upright; 
+}

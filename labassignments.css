@@ -1,0 +1,48 @@
+.p1{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:2vw;
+    text-orientation:upright;
+}
+.p2 a{
+    color:blue;
+    font-size: 1.5vw;
+    font-family:arial;
+    position:absolute;
+    left:2vw;
+    bottom:0;
+    }
+.p3 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:16vh;
+    text-orientation:upright;
+    }
+.p4 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:32vh;
+    text-orientation:upright;
+    }
+.p5 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:47vh;
+    text-orientation:upright;
+    }
+.p6 a{
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:61vh;
+    text-orientation:upright;
+    }
