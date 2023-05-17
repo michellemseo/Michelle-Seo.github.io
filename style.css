@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    font-family:arial, sans-serif; 
+}
+.p1 a{
+    font-family: sans-serif;
+    color:blue;
+    text-decoration-line:line-through;
+    position:fixed;
+    font-size:3vw;
+    filter:blur(1px);
+    margin-top:3.35vh;
+}
+.p1:hover{
+    filter:none;
+}
+.p2 a{
+    font-family: sans-serif;
+    color:blue;
+    text-decoration-line:line-through;
+    position:fixed;
+    font-size:3vw;
+    filter:blur(1px);
+    margin-top:3.35vh;
+    margin-left:30vw;
+}
+.p2 a:hover{
+    filter:none;
+}
+.p3 a{
+    font-family: sans-serif;
+    color:blue;
+    text-decoration-line:line-through;
+    position:fixed;
+    font-size:3vw;
+    filter:blur(1px);
+    margin-top:3.35vh;
+    margin-left:46vw;
+
+}
+.p3 a:hover{
+    filter:none;
+}
+.p4 a{
+    font-family: sans-serif;
+    color:blue;
+    text-decoration-line:line-through;
+    position:fixed;
+    font-size:3vw;
+    filter:blur(1px);
+    margin-top:3.35vh;
+    margin-left:72vw;
+}
+.p4 a:hover{
+    filter:none;
+}
+.slide-left{
+    filter:blur(2px);
+}
+.slide-right{
+    filter:blur(2px);
+}
