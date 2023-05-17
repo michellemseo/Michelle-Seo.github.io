@@ -11,15 +11,6 @@ body{
     text-orientation: upright;
 
 }
-.p2 a{
-    color:blue;
-    font-size: 1.5vw;
-    font-family:arial;
-    position:absolute;
-    bottom:0;
-    left:37px;
-    
-}
 .p3 a{
     color:blue;
     font-size: 2vw;

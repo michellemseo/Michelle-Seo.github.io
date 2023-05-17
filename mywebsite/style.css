@@ -2,14 +2,14 @@ body{
     background-color: white;
     font-family:arial, sans-serif; 
 }
-.p1{
+.p1 a{
     font-family: sans-serif;
     color:blue;
     text-decoration-line:line-through;
     position:fixed;
     font-size:3vw;
     filter:blur(1px);
-    top:0;
+    margin-top:3.35vh;
 }
 .p1:hover{
     filter:none;
@@ -23,7 +23,6 @@ body{
     filter:blur(1px);
     margin-top:3.35vh;
     margin-left:30vw;
-
 }
 .p2 a:hover{
     filter:none;
