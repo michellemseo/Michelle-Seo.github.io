@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color:white;
+}
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    font-size:30px;
+    line-height:70px;
+    margin-top:20vh;
+    margin-left:10vh;
+    margin-right:40vh;
+    filter:blur(2px);
+}
+.p1:hover{
+    filter:none;
+}
+.p2 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-top:5vh;
+    margin-left:135vh;
+    filter: blur(1px);
+}
+.p3 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-top:5vh;
+    margin-left:30px;
+    filter: blur(1px); 
+}
+.b{
+    font-family: "Sawarabi Mincho";
+    font-size:55px;
+    font-weight:bold;
+    color:white;
+    position:fixed;
+    margin-top:6vh;
+    margin-left:2vh;
+    letter-spacing:0.2em;
+    animation-name: fade-in;
+    animation-delay: 1s;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+@keyframes fade-in {
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
+}
+.vl{
+        border-left: 2px solid white;
+        height: 3000px;
+        position: absolute;
+        margin-left: 148vh;
+        top:0;
+}

@@ -1,0 +1,285 @@
+.flex-container{
+  display:flex;
+  margin-top:10px;
+  height:10vh;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.us{
+    position:absolute;
+    width:89px;
+    height:60px;
+    top:10px;
+    right:8px;
+}
+
+.calender{
+  border: 1px solid black;
+  background-color: white;
+  padding-top: 2vw;
+  padding-bottom: 10vw;
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#dot-container{
+  display:grid;
+  height:4vw;
+  width: 90vw;
+  grid-template-columns: repeat(13, 1fr);
+  column-gap: 2vw;
+}
+
+.dot{
+  height: 83%;
+  width: 65%;
+  background-color: black;
+  border-radius: 50%; 
+}
+
+.p1{
+    color: black;
+    font-size:15vw;
+    margin-left:1.5vw;
+    margin-top:26vh;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.march{
+  align-self: flex-start;
+  margin-left:-15vw;
+}
+
+.grid1{
+  display: grid;
+  position:relative;
+  grid-template-columns: 13vw 13vw 13vw 13vw 13vw 13vw 13vw;
+  gap: 0px;
+  background-color: white;
+  text-align: center;
+  text-align:justify;
+  margin-top:10vh;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 4vw;
+  margin-bottom:50px;
+}
+
+.grid1 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 4vw; 
+  }
+
+  .grid2{
+    display: grid;
+    grid-template-columns: 13vw 13vw 13vw 13vw 13vw 13vw 13vw;
+    grid-template-rows: 300px 300px 300px 300px 300px 300px;
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+.grid2 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 5vw;
+    align-content: center;
+  }  
+  
+  .div1:hover{
+    filter:blur(7px);
+  }
+
+  #red{
+    font-size:5vw;
+    background-color:red;
+    color:black;
+    text-decoration:none;
+    text-align:center;
+    display: grid;
+    /* grid-template-columns: 12.8vw;
+    grid-template-rows: 298px; */
+    border: 1.5px solid red;  
+  }
+
+  #red p{
+    margin-top:1vh;  
+  }  
+
+  #green{
+    font-size:5vw;
+    background-color:green;
+    color:black;
+    text-decoration:none;
+    text-align:center;
+    display: grid;
+    border: 1.5px solid green;  
+  }
+
+  #green p{
+    margin-top:1vh;    
+  }
+
+  #yellow{
+    font-size:5vw;
+    color:black;
+    background-color:yellow;
+    text-decoration:none;
+    text-align:center;
+    display: grid;
+    border: 1.5px solid yellow;  
+  }
+
+  #yellow p{
+    margin-top:1vh;   
+  }
+
+  #blue{
+    font-size:5vw;
+    color:black;
+    background-color:blue;
+    text-decoration:none;
+    text-align:center;
+    display: grid;
+    border: 1.5px solid blue; 
+  }
+
+  #blue p{
+    margin-top:1vh;    
+  }
+
+  #dayParent img{
+    width: 20vw;
+  }
+
+  /* .popUp{
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    overflow-y:auto;
+  } */
+
+  #gallery-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    background-color: red;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+
+  .popUp1{
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    overflow-y:auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: auto;
+    place-items: center;
+  }
+
+  .popUp1 .parent{
+    z-index: 1;
+    position: relative;
+    font-size:1.3vw;
+    top:0;
+    display:grid;
+    min-height:90vh;
+    place-items: center;
+    align-self: flex-start;
+    font-family:Arial, Helvetica, sans-serif;
+  
+  }
+
+.image{
+  z-index: 1;
+  /* margin:15px; */
+  display:grid;
+  margin-top:20vh;
+  padding:20px;
+
+}
+
+.hide{
+  display:none;
+}
+
+  #red .popUp1{
+    /* background-color: red; */
+    background-color:red;
+  }
+
+  #green .popUp1{
+    /* background-color: green; */
+    background-color: green;
+
+  }
+
+  #yellow .popUp1{
+    background-color: yellow;
+    /* background-color: yellow; */
+  }
+
+  #blue .popUp1{
+    background-color: blue;
+    /* background-color: blue; */
+  }
+
+  .p{
+    margin-top:1vh;
+  }
+
+  /* .popUp1 img{
+    width: 40vw;
+    margin-top:90px;
+    } */
+
+  @media screen and (max-width: 1010px)
+  {
+    .grid2{
+      grid-template-rows: 25vw 25vw 25vw 25vw 25vw 25vw 25vw;
+    }
+  }
+
+  @media screen and (max-width: 900px)
+  {
+    .grid2{
+      grid-template-rows: 19vw 19vw 19vw 19vw 19vw 19vw 19vw;
+    }
+  }
+
+  /* .popUp p{
+    font-size: 1vw;
+    display:grid;
+    font-family:serif;
+    color:white;
+  } */
+
+  .buttonContainer{
+    z-index: 10;
+    position:absolute;
+    top:0;
+    right: 8vw;
+    color:black;
+  }
+
+  .button1{
+    color:black;
+    background-color:white;
+  }
