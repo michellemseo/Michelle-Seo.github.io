@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.two{
+    margin-top:19vh;
+}
+.one{
+    margin-left:51.6vh;
+    margin-top: -36.8vh;
+    position: absolute;   
+}
+
+.four{
+    margin-left: 91.4vh;
+    margin-top:-36.2vh;
+    position: absolute;
+}
+.five{
+    margin-left:60.1vh;
+    margin-top:-26.5vh;
+    position: absolute;
+}
+.six{
+    margin-left:56.2vh;
+    margin-top: -14.2vh; 
+    position: absolute;
+
+}
+.seven{
+    margin-top:-36.1vh;
+    margin-left:103.8vh;     
+    position: absolute;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 2px;
+}
+
+#box1{
+    width: 12vh;
+    height: 12vh;
+    margin: 10vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    margin-top: -27.5vh;
+    filter:blur(2px);
+}
+#text a{
+    color:white;
+    text-decoration:none;
+    margin-left:1350px;
+}
+.p1 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-left:170vh;
+    margin-top:180px;
+    filter: blur(1px);
+}
+.p2 a{
+    font-family: "Sawarabi Mincho";
+    font-size:40px;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    margin-left:33px;
+    margin-top:180px;
+    filter: blur(1px); 
+}
