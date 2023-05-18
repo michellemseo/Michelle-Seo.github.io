@@ -46,3 +46,17 @@
     margin-left:61vh;
     text-orientation:upright;
     }
+.p7 {
+    color:blue;
+    font-size: 2vw;
+    font-family:arial;
+    position:absolute;
+    margin-left:80vh;
+    text-orientation:upright;
+    text-decoration: underline;
+    }
+iframe{
+    position:absolute;
+    margin-left:95vh;
+    overflow-clip-margin: content-box !important;
+}

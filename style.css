@@ -11,7 +11,7 @@ body{
     filter:blur(1px);
     margin-top:3.35vh;
 }
-.p1:hover{
+.p1 a:hover{
     filter:none;
 }
 .p2 a{

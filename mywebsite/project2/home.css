@@ -47,10 +47,10 @@
 
 
 .p1{
-    color: black;
-    font-size:15vw;
-    margin-left:1.5vw;
-    margin-top:26vh;
+  color: black;
+  font-size:15vw;
+  margin-left:1.5vw;
+  margin-top:26vh;
 }
 
 .march{
@@ -94,9 +94,9 @@
   align-content: center;
 }  
 
-  .div1:hover:hover{
-    filter:blur(7px);
-  }
+.div1:hover:hover{
+  filter:blur(7px);
+}
 
   #red{
     font-size:5vw;
@@ -160,15 +160,6 @@
     width: 20vw;
   }
 
-  /* .popUp{
-    top: 0;
-    left: 0;
-    position: fixed;
-    width: 100vw;
-    height: 100vh;
-    overflow-y:auto;
-  } */
-
   #gallery-button {
     position: absolute;
     top: 10px;
@@ -209,7 +200,6 @@
 
 .image{
   z-index: 1;
-  /* margin:15px; */
   display:grid;
   margin-top:20vh;
   padding:20px;
@@ -221,34 +211,25 @@
 }
 
   #red .popUp1{
-    /* background-color: red; */
     background-color:red;
   }
 
   #green .popUp1{
-    /* background-color: green; */
     background-color: green;
 
   }
 
   #yellow .popUp1{
     background-color: yellow;
-    /* background-color: yellow; */
   }
 
   #blue .popUp1{
     background-color: blue;
-    /* background-color: blue; */
   }
 
   .p{
     margin-top:1vh;
   }
-
-  /* .popUp1 img{
-    width: 40vw;
-    margin-top:90px;
-    } */
 
   @media screen and (max-width: 1010px)
   {
@@ -263,13 +244,6 @@
       grid-template-rows: 19vw 19vw 19vw 19vw 19vw 19vw 19vw;
     }
   }
-
-  /* .popUp p{
-    font-size: 1vw;
-    display:grid;
-    font-family:serif;
-    color:white;
-  } */
 
   .buttonContainer{
     z-index: 10;

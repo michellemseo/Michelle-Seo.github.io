@@ -555,7 +555,3 @@ function windowResized(){
     }
     
 }
-
-// function windowResized(){
-//     resizeCanvas(windowWidth, WindowHeight);
-// }

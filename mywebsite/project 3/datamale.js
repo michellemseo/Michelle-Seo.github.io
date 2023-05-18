@@ -25,25 +25,6 @@ fetch(url)
         currentPerson.dataset.count = item.cnt;
         currentPerson.dataset.rank = item.rnk;
 
-        // currentPerson.innerHTML = `
-
-        // <div id="square"> </div>
-
-        // <h3>Name:</h3> 
-        // <p>${item.nm}</p>
-        
-        // <h3>Ethnicity:</h3> 
-        // <p>${item.ethcty}</p>
-
-        // <h3>Count:</h3> 
-        // <p>${item.cnt}</p>
-
-        // <h3>Rank:</h3> 
-        // <p>${item.rnk}</p>
-
-
-        // `;
-
         currentPerson.addEventListener('click', (evt) => {
           modalContainer.innerHTML = `
             <div>

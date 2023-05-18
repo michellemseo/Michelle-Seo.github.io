@@ -180,15 +180,7 @@ div.A{
     border-color:black;
     margin: 1vw;
 }
-
-/* .Aa{
-    font-family:Arial, Helvetica, sans-serif;
-    font: size 100px;
-    position:absolute;
-} */
-
 div.B{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -202,7 +194,6 @@ div.B{
     margin-top:-800px;
 }
 div.C{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -212,13 +203,8 @@ div.C{
     border-width: 3px;
     margin: 1vw;
     margin-left:100px;
-
 }
-
-
-
 div.D{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;
@@ -229,7 +215,6 @@ div.D{
     margin: 1vw;
 }
 div.E{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;
@@ -243,7 +228,6 @@ div.E{
     margin-top:100px;
 }
 div.F{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;
@@ -255,7 +239,6 @@ div.F{
 }
 
 div.G{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;
@@ -268,9 +251,7 @@ div.G{
     margin-top:-500px;
     position:absolute;
 }
-
 div.H{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;
@@ -284,7 +265,6 @@ div.H{
     position:absolute;
 }
 div.I{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;
@@ -296,9 +276,7 @@ div.I{
     position:absolute;
     margin-left:40vw;
 }
-
 div.J{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -312,9 +290,7 @@ div.J{
     margin-top:200px;
 
 }
-
 div.K{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -327,9 +303,7 @@ div.K{
     margin-left:200px;
     margin-top:-100px;
 }
-
 div.L{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -342,9 +316,7 @@ div.L{
     margin-top:150px;
     margin-left:990px;
 }
-
 div.M{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -357,9 +329,7 @@ div.M{
     margin-left:400px;
     margin-top:300px;
 }
-
 div.N{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -369,9 +339,7 @@ div.N{
     border-width: 3px;
     margin: 1vw;
 }
-
 div.O{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -382,9 +350,7 @@ div.O{
     margin: 1vw;
     margin-left:200px;
 }
-
 div.P{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -396,9 +362,7 @@ div.P{
     margin-top:-800px;
     margin-left:500px;
 }
-
 div.Q{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -408,9 +372,7 @@ div.Q{
     border-width: 3px;
     margin: 1vw;
 }
-
 div.R{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -422,9 +384,7 @@ div.R{
     margin-left:700px;
     position:absolute;
 }
-
 div.S{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -437,9 +397,7 @@ div.S{
     margin-top:600px;
     position:absolute;
 }
-
 div.T{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -449,9 +407,7 @@ div.T{
     border-width: 3px;
     margin: 1vw;
 }
-
 div.U{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -461,9 +417,7 @@ div.U{
     border-width: 3px;
     margin: 1vw;
 }
-
 div.V{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -476,9 +430,7 @@ div.V{
     margin-left:600px;
     margin-top:200px;
 }
-
 div.W{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;   
@@ -488,9 +440,7 @@ div.W{
     border-width: 3px;
     margin: 1vw;
 }
-
 div.X{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -500,9 +450,7 @@ div.X{
     border-width: 3px;
     margin: 1vw;
 }
-
 div.Y{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -512,9 +460,7 @@ div.Y{
     border-width: 3px;
     margin: 1vw;
 }
-
 div.Z{
-    /* background-image:url(wood_texture4.jpeg); */
     text-align: left;
     width:18vw;
     height:33vh;    
@@ -540,66 +486,6 @@ div.Z{
     height:290px;
     padding:2vw;
 }
-
-/* p.Cc{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:200px;
-    top:0;
-    position:absolute;
-    margin-top:60px;
-    margin-left:180px;
-}
-
-p.Mm{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:200px;
-    top:0;
-    position:absolute;
-    margin-top:360px;
-    margin-left:480px;  
-}
-
-p.Ii{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:200px;
-    top:0;
-    position:absolute;
-    margin-top:80px;
-    margin-left:700px;  
-}
-
-p.Ee{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:200px;
-    top:0;
-    position:absolute;
-    margin-top:160px;
-    margin-left:1010px;  
-}
-p.Aa{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:200px;
-    top:0;
-    position:absolute;
-    margin-top:400px;
-    margin-left:110px;  
-}
-p.Vv{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:200px;
-    top:0;
-    position:absolute;
-    margin-top:600px;
-    margin-left:700px;  
-}
-p.Ll{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:200px;
-    top:0;
-    position:absolute;
-    margin-top:570px;
-    margin-left:1100px;  
-} */
 
 
 

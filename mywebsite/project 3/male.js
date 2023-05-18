@@ -151,16 +151,6 @@ function draw() {
   let maxCubes = 100;
   let cubeCount = 0;
   background(255);
- 
-//   push();
-//   // no stroke to hide the edges of the box
-//   noStroke()
-
-//   // use the graphics we created earlier as a texture for a box
-//   texture(textScreen);
-//   translate(0, 0, -900, 0);
-//   box(1600, 800)
-//   pop();
   
 
   push();
